@@ -1,5 +1,5 @@
 # AHK_hotkey_for_keyboard
-need to have volume and brightness adjustment tool for key board
+need to have volume and brightness adjustment tool for my new mechenical keyboard
 
 big thanks to all the help from AHK forum
 
